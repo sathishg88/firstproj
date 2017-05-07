@@ -1,0 +1,19 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "firstproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathishg88/firstproj.git"
+  },
+  "author": "sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathishg88/firstproj/issues"
+  },
+  "homepage": "https://github.com/sathishg88/firstproj#readme"
+}
